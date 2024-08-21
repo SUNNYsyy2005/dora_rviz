@@ -1,0 +1,4 @@
+2024-08-20T14:02:43.282633Z  INFO dora: Starting dataflow `dataflow.yml`
+2024-08-20T14:02:43.297530Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: "/home/sunny/dora/examples/.env/bin/python3" /home/sunny/dora/examples/python-ros2-dataflow/random_turtle.py
+2024-08-20T14:02:43.305585Z  INFO run_inner{self.machine_id=}: dora_daemon::spawn: spawning: "/home/sunny/dora/examples/.env/bin/python3" /home/sunny/dora/examples/python-ros2-dataflow/control_node.py
+2024-08-20T14:02:44.084048Z  INFO run_inner{self.machine_id=}: dora_daemon: all nodes are ready, starting dataflow `01917018-dcd9-72b6-83b2-c1918627d32e`
