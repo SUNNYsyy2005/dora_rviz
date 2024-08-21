@@ -1,0 +1,1346 @@
+/home/sunny/dora_rviz/python-ros2-dataflow/lidar_to_ros2.py:9: UserWarning: dora-rs ROS2 Bridge is unstable and may change at any point without it being considered a breaking change
+  self.ros2_context = dora.Ros2Context()
+[2m2024-08-21T14:58:29.122849Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:29.224734Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:29.322251Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:29.422706Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:29.522220Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:29.622090Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:29.722264Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:29.825474Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:29.922258Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:30.022347Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:30.123146Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:30.222608Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:30.339025Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:30.422655Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:30.521979Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:30.624189Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:30.721854Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:30.822019Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:30.922697Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:31.022603Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:31.123696Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:31.226525Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:31.322742Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:31.424084Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:31.522167Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:31.622635Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:31.722760Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:31.822272Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:31.922782Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:32.023613Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:32.124915Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:32.222665Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:32.322910Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:32.422971Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:32.528257Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:32.634892Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:32.722359Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:32.823253Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:32.922139Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:33.023104Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:33.121942Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:33.222843Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:33.322267Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:33.422448Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:33.522891Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:33.622737Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:33.722797Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:33.831234Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:33.922368Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:34.022930Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:34.122059Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:34.223344Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:34.322017Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:34.422810Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:34.532929Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:34.631308Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:34.728388Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:34.825065Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:34.925152Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:35.050942Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:35.122701Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:35.221983Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:35.324551Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:35.423027Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:35.526394Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:35.622617Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:35.722107Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:35.828662Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:35.923231Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:36.022724Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:36.134584Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:36.222767Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:36.322146Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:36.435999Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:36.523689Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:36.622473Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:36.722639Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:36.824537Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:36.922835Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:37.022709Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:37.123689Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:37.222579Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:37.365148Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:37.435683Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:37.522372Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:37.625601Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:37.724673Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:37.822515Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:37.923571Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:38.022834Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:38.122848Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:38.225240Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:38.330057Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:38.430112Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:38.522933Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:38.622956Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:38.725248Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:38.822597Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:38.923386Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:39.023367Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:39.122723Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:39.222421Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:39.322465Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:39.422810Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:39.522649Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:39.622133Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:39.722788Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:39.822816Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:39.922379Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:40.022990Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:40.122883Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:40.222717Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:40.322773Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:40.422412Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:40.524548Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:40.622159Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:40.722881Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:40.822833Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:40.922544Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:41.024080Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:41.122841Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:41.222122Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:41.322500Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:41.422986Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:41.522525Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:41.622418Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:41.722977Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:41.855337Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:41.925508Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:42.023132Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:42.122831Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:42.221862Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:42.329670Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:42.423772Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:42.522537Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:42.622181Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:42.722771Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:42.823022Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:42.922121Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:43.023091Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:43.125517Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:43.223061Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:43.322646Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:43.422119Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:43.522179Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:43.621963Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:43.722585Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:43.822459Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:43.923192Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:44.024650Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:44.122009Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:44.222226Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:44.322455Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:44.422792Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:44.522217Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:44.623172Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:44.722656Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:44.822733Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:44.922340Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:45.022465Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:45.122805Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:45.222815Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:45.322168Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:45.425121Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:45.523355Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:45.622737Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:45.723532Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14
+[2m2024-08-21T14:58:45.839408Z[0m [33m WARN[0m [2mdora_node_api::event_stream::thread[0m[2m:[0m failed to receive incoming event
+
+Caused by:
+   0: failed to deserialize DaemonReply
+   1: io error: 
+
+Location:
+    apis/rust/node/src/daemon_connection/tcp.rs:59:14

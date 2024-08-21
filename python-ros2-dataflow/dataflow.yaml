@@ -1,0 +1,6 @@
+nodes:
+  - id: lidar_to_ros2
+    operator:
+        python: lidar_to_ros2.py
+        inputs:
+          tick: dora/timer/millis/100
