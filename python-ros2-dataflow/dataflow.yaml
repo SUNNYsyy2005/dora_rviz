@@ -1,6 +1,13 @@
 nodes:
+  - id: rslidar_driver
+    custom:
+        source: ./rslidar_driver.py
+        inputs:
+          tick: dora/timer/millis/100
+        outputs:
+          - scan
   - id: lidar_to_ros2
     custom:
         source: ./lidar_to_ros2.py
         inputs:
-          tick: dora/timer/millis/100
+          tick: rslidar_driver/scan

@@ -22,6 +22,6 @@ while True:
             }
 
             node.send_output(
-                "direction",
+                "scan",
                 pa.array([direction]),
             )
