@@ -32,6 +32,7 @@ class Operator:
             send_output,
     ) -> DoraStatus:
         if dora_event["type"] == "tick":
+            print("tick")
             # 假设数据
             sec = int(time.time())
             nanosec = int((time.time() - sec) * 1e9)
